@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+.vscode/launch.json
+python.code-workspace
+.vscode/settings.json
+.gitignore
